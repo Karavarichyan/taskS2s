@@ -27,7 +27,7 @@
       <img src="../picture/icons (2).png" alt="LinkedIn" />
     </a>
   </div>
-        <img src="../picture/Group 2.png" alt="Person" class="w-3/4 opacity-80" />
+        <img src="../picture/Groupp.png" alt="Person" class="w-3/4 opacity-80" />
     </div>
   </section>
   <PageesForm/>
@@ -115,7 +115,7 @@ const submitForm = async () => {
       }
     );
     console.log('Form submitted successfully:', response.data);
-    
+
   } catch (error) {
     console.error('Error submitting form:', error);
 
