@@ -5,13 +5,13 @@
     <div class="absolute inset-0">
        <img src="../picture/lefthi.png" alt="gradient">
     </div>
-    <div class="relative z-10 text-left px-1 md:px-4 lg:px-24">
-  <h1 class="text-white font-roboto text-[68px] font-light leading-[95.2px] mb-4">
-    <span class="text-green-500 text-[68px] font-light font-roboto">MARKETING AGENCY</span>
+    <div class="relative z-10 text-left px-2 sm:px-4 md:px-6 lg:px-24">
+  <h1 class="text-white font-roboto text-[32px] sm:text-[40px] md:text-[50px] lg:text-[68px] font-light leading-[40px] sm:leading-[50px] md:leading-[70px] lg:leading-[95.2px] mb-4">
+    <span class="text-green-500 text-[32px] sm:text-[40px] md:text-[50px] lg:text-[68px] font-light font-roboto">MARKETING AGENCY</span>
     <br />
     ARMENIA’S LEADING DIGITAL
   </h1>
-  <h2 class="text-white text-[68px] font-bold leading-[95.2px] font-roboto">
+  <h2 class="text-white text-[28px] sm:text-[36px] md:text-[46px] lg:text-[68px] font-bold leading-[36px] sm:leading-[46px] md:leading-[60px] lg:leading-[95.2px] font-roboto">
     BRINGS BIG RESULTS THAT
   </h2>
 </div>
