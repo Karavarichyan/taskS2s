@@ -21,7 +21,7 @@
 import FacebookImg from '../picture/facebook.png';
 import LinkedInImg from '../picture/linkdin.png';
 import HarvardImg from '../picture/har.png';
-import appleImg from '../assets/picture/App.png';
+import appleImg from '../picture/App.png';
 import GoogleImg from '../picture/Googl.png';
 import HubSpotImg from '../picture/HubSpot.png';
 
