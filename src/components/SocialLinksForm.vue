@@ -24,7 +24,7 @@ import LinkedInImg from '../picture/linkdin.png';
 import HarvardImg from '../picture/har.png';
 import appleImg from '../picture/app.png';
 import GoogleImg from '../picture/googl.png';
-import HubSpotImg from '../picture/hubSpot.png';
+import HubSpotImg from '../picture/hubspot.png';
 
 const links = [
   {
