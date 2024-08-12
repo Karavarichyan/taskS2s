@@ -18,13 +18,13 @@
     <div class="absolute bottom-0 right-0 flex flex-col items-end space-y- p-4">
       <div class="flex flex-col space-y-4">
     <a href="https://www.facebook.com" target="_blank">
-      <img src="../picture/icons.png" alt="Facebook" />
+      <img src="../picture/ffacebook.png" alt="Facebook" />
     </a>
     <a href="https://www.instagram.com" target="_blank">
-      <img src="../picture/icons (1).png" alt="Instagram" />
+      <img src="../picture/Instagram.png" alt="Instagram" />
     </a>
     <a href="https://www.linkedin.com" target="_blank">
-      <img src="../picture/icons (2).png" alt="LinkedIn" />
+      <img src="../picture/LinkedIn.png" alt="LinkedIn" />
     </a>
   </div>
         <img src="../picture/Groupp.png" alt="Person" class="w-3/4 opacity-80" />
